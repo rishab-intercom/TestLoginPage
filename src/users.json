@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "test@example.com",
+      "password": "TestUser2024!Secure"
+    },
+    {
+      "email": "admin@test.com",
+      "password": "Admin$ecure2024Pass"
+    },
+    {
+      "email": "user@demo.com",
+      "password": "DemoUser#2024Safe"
+    }
+  ]
+}
