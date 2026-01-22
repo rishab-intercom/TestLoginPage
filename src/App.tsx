@@ -4,7 +4,7 @@ import Dashboard from './Dashboard';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/TestLoginPage">
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
